@@ -1,3 +1,3 @@
 <h1 align="center">Arumino</h1>
 
-C#erの高専生です。よろしくお願いします。
+<p align="center">C#erの一般オタク高専生</p>
