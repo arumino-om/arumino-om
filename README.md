@@ -6,3 +6,4 @@
 
 ## I like ...
 - Programming / プログラミング
+- Crypto / 暗号化
