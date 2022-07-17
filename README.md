@@ -1,9 +1,13 @@
-<h1 align="center">Arumino</h1>
+# Hi, I'm Arumino!
+Ordinary national institute of technology college student
 
-## Language
-1. Japanese, C#
-2. JS/TS
+## Arumino's information
 
-## I like ...
-- Programming / プログラミング
-- Crypto / 暗号化
+```json
+{
+  "name": "Arumino",
+  "age": 16,
+  "location": "Hokkaido, Japan",
+  "like": ["programming", "ramen", "natto"],
+}
+```
