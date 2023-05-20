@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Arumino!</div>  
+# <div align="center">Hi, I'm Arumino!</div>  
   
 
 - 🔭 I’m currently working on [Kirikiri S](https://github.com/arumino-om/kirikiri-s)  
