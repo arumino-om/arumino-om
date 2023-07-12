@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Arumino!</div>  
   
 
-- 🔭 I’m currently working on [Kirikiri S](https://github.com/arumino-om/kirikiri-s)  
+- 🔭 I’m currently working on [Kirikiri X](https://github.com/arumino-om/kirikiri-x)  
   
 
 - 🏫 I'm currently student of National Institute of Technology, Kushiro College  
